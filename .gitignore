@@ -1,0 +1,4 @@
+pb_data/
+*_templ.go
+node_modules/
+build/

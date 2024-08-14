@@ -1,0 +1,17 @@
+{
+  "name": "pocketbase-htmx",
+  "version": "1.0.0",
+  "description": "This is a small demo on how to use [pocketbase](https://pocketbase.io/) as a framework, with [templ](https://templ.guide/) and [htmx](https://htmx.org/).",
+  "main": "tailwind.config.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.7"
+  }
+}
